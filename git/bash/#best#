@@ -1,0 +1,8 @@
+case  in
+    *)
+	
+esac
+
+#!/bin/bash
+echo "Best School"
+
